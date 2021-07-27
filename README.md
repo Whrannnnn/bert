@@ -8,7 +8,7 @@ We have shown that the standard BERT recipe (including model architecture and tr
 
 Our goal is to enable research in institutions with fewer computational resources and encourage the community to seek directions of innovation alternative to increasing model capacity.
 
-You can download all 24 from [here][all], or individually from the table below:
+You can download all 24 from [here][all], or individually from the table below: 
 
 |   |H=128|H=256|H=512|H=768|
 |---|:---:|:---:|:---:|:---:|
